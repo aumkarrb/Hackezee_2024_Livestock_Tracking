@@ -1,5 +1,5 @@
 # Livestock Tracking Device 
-Done has part of HackeZee 2024 Competition
+Done as part of HackeZee 2024 Competition
 ### Components Used
 - ESP-32C2 ESPC-12 Devkit Development Board
 -  ESP8266 Board
