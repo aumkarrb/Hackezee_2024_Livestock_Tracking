@@ -1,1 +1,3 @@
-# project_hack
+# Livestock Tracking Device 
+
+# Components Used
